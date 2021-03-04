@@ -1,7 +1,7 @@
 # README
 ###### tags: `C-21st`
 [TOC]
-### 1_compile
+### 1_Compile
 - Compiling
 - makefiles
 ### 2_Debug
