@@ -1,0 +1,7 @@
+define hook-print
+echo <----\n
+end
+
+define hookpost-print
+echo ---->\n
+end

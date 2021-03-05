@@ -5,6 +5,9 @@
 - Compiling
 - makefiles
 ### 2_Debug
+- gdb example
+- gdb variable
+- gdb show
 ### 3_Test
 ### 4_Document
 
