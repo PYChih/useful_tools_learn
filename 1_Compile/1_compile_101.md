@@ -1,4 +1,4 @@
-# 1_編譯
+# 1_compile_101
 ###### tags: `C-21st`
 [TOC]
 ## 基本的環境
@@ -171,7 +171,11 @@ $(p): $(OBJECTS)
 - [x] find
     - `find /usr -name 'libuseful*'`
     - 搜尋`/usr`目錄下檔名以`libuseful`開頭的檔案
-- [ ] wc
+- [x] wc
+    - print newline, word, and byte counts for each file
+    - `-l` lines
+    - `-w` words
+    - `-c` bytes
 - [x] export
     - 在shell中執行程序時，shell會提供一组環境變量。export可新增，修改或删除，供後續執行的程序使用。export的效力僅於該次登陸
 - [x] env

@@ -1,14 +1,24 @@
 # README
-###### tags: `C-21st`
+###### tags: `tools`
 [TOC]
 ### 1_Compile
-- Compiling
-- makefiles
+- 1_compile_101
+    - compile intro
+    - [x] make helloworld.c
+    - [x] make (`-lm`)
+    - [x] make gsl
+- 2_compile_intro
+    - g++, makefile, cmake intro
+    - [x] makefile opencv
+    - [x] cmake opencv
 ### 2_Debug
 - gdb example
 - gdb variable
 - gdb show
 ### 3_Test
+### 4_Shells
+- basic_shells
+- shells and makefile
 ### n_Small_Topic
 - doxyfile
 
